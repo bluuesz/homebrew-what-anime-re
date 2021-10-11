@@ -5,7 +5,7 @@ class WhatAnimeRe < Formula
   desc "A CLI to find anime scene from trace.moe"
   homepage "https://github.com/bluuesz/what-anime-reasonml"
   url "https://github.com/bluuesz/what-anime-reasonml/releases/download/v0.1.0/what-anime-re-mac.tar.gz"
-  sha256 "276f1ea46158b7289cfacb7335cd9eadd63690a05b9aa82ab579bad1b6261698"
+  sha256 "8eac01e3c0e424bfb786e2b01384bcfd26b56b248455411d28b068a92a70e9c7"
   version "0.1.0"
 
   def install
