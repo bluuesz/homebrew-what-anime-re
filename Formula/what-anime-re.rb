@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class Espanso < Formula
+class WhatAnimeRe < Formula
   desc "A CLI to find anime scene from trace.moe"
   homepage "https://github.com/bluuesz/what-anime-reasonml"
   url "https://github.com/bluuesz/what-anime-reasonml/releases/download/v0.1.0/what-anime-re-mac.tar.gz"
