@@ -9,6 +9,6 @@ class WhatAnimeRe < Formula
   version "0.1.0"
 
   def install
-    bin.install "what_anime.exe"
+    bin.install "what-anime-re"
   end
 end
